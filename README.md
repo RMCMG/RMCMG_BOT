@@ -27,7 +27,9 @@ For easiest way to deploy this Bot click on the below button
 
 ## Mᴀᴅᴇ Bʏ
 
-<a href="https://t.me/mkspali"> <img src="https://img.shields.io/badge/Bestest-Master-ff69b4" /> </a>
+<p align="center">
+    <a href="https://t.me/mkspali"> <img src="https://img.shields.io/badge/Bestest-Master-ff69b4" /> </a>
+</p>
 <a href="https://t.me/mkspali"><img src="https://img.shields.io/badge/Telegram-Mukesh%20Solanki-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 
 
@@ -35,7 +37,9 @@ For easiest way to deploy this Bot click on the below button
 
 ## Sᴜᴘᴘᴏʀᴛ
 
-<a href="https://t.me/RMCMG_Bots"> <img src="https://img.shields.io/badge/Join-Our-green" /> <img src="https://img.shields.io/badge/Support-Channel-critical" /> </a>
+<p align="center">
+    <a href="https://t.me/RMCMG_Bots"> <img src="https://img.shields.io/badge/Join-Our-green" /> <img src="https://img.shields.io/badge/Support-Channel-critical" /> </a>
+</p>
 <a href="https://t.me/RMCMG_Bots"><img src="https://img.shields.io/badge/Telegram-RMCMG%20Bots%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 
 
@@ -43,14 +47,18 @@ For easiest way to deploy this Bot click on the below button
 
 ## Sᴏᴜʀᴄᴇ
 
-* <img src="https://img.shields.io/badge/Python-black" width=50px/>  <img src="https://img.shields.io/badge/Telethn-black" width=50px/>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-black" width=50px/>  <img src="https://img.shields.io/badge/Telethn-black" width=50px/>
+</p>
 
 ##
 
 ## Find RMCMG_BOT on Telegram
-<a href="https://t.me/RMCMG_Filter_Bot"> <img src="https://img.shields.io/badge/Best-Bot-ff69b4" /> </a>
-<a href="https://t.me/RMCMG_Filter_Bot"><img src="https://img.shields.io/badge/Telegram-RMCMG%20BOT%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
-<a href="https://t.me/Emma_Miller_Bot"><img src="https://img.shields.io/badge/Telegram-Emma%20Miller%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+<p align="center">
+    <a href="https://t.me/RMCMG_Filter_Bot"> <img src="https://img.shields.io/badge/Best-Bot-ff69b4" /> </a>
+    <a href="https://t.me/RMCMG_Filter_Bot"><img src="https://img.shields.io/badge/Telegram-RMCMG%20BOT%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+    <a href="https://t.me/Emma_Miller_Bot"><img src="https://img.shields.io/badge/Telegram-Emma%20Miller%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+</p>
 
 ##
 
